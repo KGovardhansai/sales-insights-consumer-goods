@@ -1,0 +1,7 @@
+Product_ID,Product_Name,Category,Price,Brand
+P001,Soap,Hygiene,50,BrandA
+P002,Shampoo,Hygiene,100,BrandB
+P003,Detergent,Household,100,BrandC
+P004,Perfume,Luxury,300,BrandD
+P005,Toothpaste,Hygiene,200,BrandE
+P006,Lotion,Skincare,200,BrandF

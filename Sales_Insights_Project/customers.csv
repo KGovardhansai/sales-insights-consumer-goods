@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,Gender,Location,Income
+C001,Rajesh,32,Male,Delhi,50000
+C002,Anita,28,Female,Mumbai,60000
+C003,Sunil,40,Male,Kolkata,45000
+C004,Meena,35,Female,Bangalore,70000
+C005,Vikram,30,Male,Chennai,55000
+C006,Pooja,27,Female,Pune,65000
+C007,Arjun,45,Male,Hyderabad,80000
+C008,Kavita,33,Female,Jaipur,48000
+C009,Suresh,38,Male,Ahmedabad,52000
+C010,Neha,29,Female,Lucknow,62000
